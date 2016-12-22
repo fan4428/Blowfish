@@ -1,0 +1,9 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\obj\Debug\Blowfish_Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\Blowfish_Test.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\Blowfish_Test.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\Blowfish.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\Blowfish.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\obj\Debug\Blowfish_Test.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish_Test\obj\Debug\Blowfish_Test.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\bin\Debug\Blowfish_Console.exe.config
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\bin\Debug\Blowfish_Console.exe
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\bin\Debug\Blowfish_Console.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\obj\Debug\Blowfish_Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\obj\Debug\Blowfish_Console.exe
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\obj\Debug\Blowfish_Console.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\bin\Debug\Blowfish.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\Blowfish_Console\bin\Debug\Blowfish.pdb

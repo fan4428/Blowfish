@@ -1,0 +1,5 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\bin\Debug\Blowfish.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\bin\Debug\Blowfish.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\obj\Debug\Blowfish.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\obj\Debug\Blowfish.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №1\Blowfish\obj\Debug\Blowfish.pdb
